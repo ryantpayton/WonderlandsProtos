@@ -1,3 +1,3 @@
-# Borderlands 3 `.proto`s
+# Wonderlands `.proto`s
 
-[protobuf](https://developers.google.com/protocol-buffers/) message definitions for Borderlands 3.
+[protobuf](https://developers.google.com/protocol-buffers/) message definitions for Tiny Tina's Wonderlands.
